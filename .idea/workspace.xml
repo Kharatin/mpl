@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b94bc4b1-09e5-4267-b880-45721ed2e6ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mpl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mpl.iml" afterDir="false" />
+    <list default="true" id="b94bc4b1-09e5-4267-b880-45721ed2e6ba" name="Changes" comment="simple">
+      <change afterPath="$PROJECT_DIR$/mpl_squares.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mpl.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpl.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +29,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.mpl.executor": "Run",
+    "Python.mpl_squares.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/PYTHON works/PROJECTS/mpl",
@@ -82,7 +81,20 @@
       <option name="presentableId" value="Default" />
       <updated>1735036482434</updated>
     </task>
+    <task id="LOCAL-00001" summary="simple">
+      <option name="closed" value="true" />
+      <created>1735037373911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735037373911</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="simple" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
