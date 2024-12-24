@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b94bc4b1-09e5-4267-b880-45721ed2e6ba" name="Changes" comment="scatter_3">
-      <change beforePath="$PROJECT_DIR$/scatter_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/scatter_squares.py" afterDir="false" />
+    <list default="true" id="b94bc4b1-09e5-4267-b880-45721ed2e6ba" name="Changes" comment="scatter_3 save png">
+      <change afterPath="$PROJECT_DIR$/random_walk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rw_visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +30,8 @@
   "keyToString": {
     "Python.mpl.executor": "Run",
     "Python.mpl_squares.executor": "Run",
+    "Python.random_walk.executor": "Run",
+    "Python.rw_visual.executor": "Run",
     "Python.scatter_squares.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -120,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735040865640</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="scatter_3 save png">
+      <option name="closed" value="true" />
+      <created>1735041170007</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735041170007</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,7 +141,8 @@
     <MESSAGE value="scatter" />
     <MESSAGE value="scatter_2" />
     <MESSAGE value="scatter_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="scatter_3" />
+    <MESSAGE value="scatter_3 save png" />
+    <option name="LAST_COMMIT_MESSAGE" value="scatter_3 save png" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
