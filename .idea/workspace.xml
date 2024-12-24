@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b94bc4b1-09e5-4267-b880-45721ed2e6ba" name="Changes" comment="simple">
-      <change afterPath="$PROJECT_DIR$/mpl_squares.py" afterDir="false" />
+    <list default="true" id="b94bc4b1-09e5-4267-b880-45721ed2e6ba" name="Changes" comment="simple style">
+      <change afterPath="$PROJECT_DIR$/scatter_squares.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mpl.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpl.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,7 @@
   "keyToString": {
     "Python.mpl.executor": "Run",
     "Python.mpl_squares.executor": "Run",
+    "Python.scatter_squares.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/PYTHON works/PROJECTS/mpl",
@@ -89,12 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1735037373911</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="simple style">
+      <option name="closed" value="true" />
+      <created>1735039317606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735039317606</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="simple" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple" />
+    <MESSAGE value="simple style" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple style" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
