@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b94bc4b1-09e5-4267-b880-45721ed2e6ba" name="Changes" comment="rw_visual">
+    <list default="true" id="b94bc4b1-09e5-4267-b880-45721ed2e6ba" name="Changes" comment="rw_visual_2">
+      <change afterPath="$PROJECT_DIR$/die.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/die_visual.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rw_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/rw_visual.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.die.executor": "Run",
+    "Python.die_visual.executor": "Run",
+    "Python.matrix.executor": "Run",
     "Python.mpl.executor": "Run",
     "Python.mpl_squares.executor": "Run",
     "Python.random_walk.executor": "Run",
@@ -139,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735043615140</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="rw_visual_2">
+      <option name="closed" value="true" />
+      <created>1735045742015</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735045742015</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -150,7 +162,8 @@
     <MESSAGE value="scatter_3" />
     <MESSAGE value="scatter_3 save png" />
     <MESSAGE value="rw_visual" />
-    <option name="LAST_COMMIT_MESSAGE" value="rw_visual" />
+    <MESSAGE value="rw_visual_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="rw_visual_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
